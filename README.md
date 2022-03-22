@@ -8,7 +8,7 @@
 
 #### WARNING: ENABLING ASTEROIDS MIGHT CAUSE PERFORMANCE ISSUES
 ## Display
-![s1](https://github.com/FahdSeddik/Planet-Simulation/blob/master/Screenshot.png)  
+![s1](https://github.com/FahdSeddik/Solar-System-Simulation/blob/master/Screenshot.png)  
   
 ### Buttons  
 From Left to Right:  
