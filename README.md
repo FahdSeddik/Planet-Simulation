@@ -1,5 +1,6 @@
-# Planet-Simulation
+# Solar System Simulation
 -This is a planet simulation developed with python using pygame.  
+-I only simulate Mercurcy,Venus,Earth,Mars, and Jupiter.(due to scale)  
 -This simulates accurate forces using Newton's universal law of gravitation.  
 -Accurate model of mass, and distance between planets, however, not size so we can see the planets :)  
 -I used data provided from NASA to get accurate distances in astronomical units (AU).   
