@@ -181,7 +181,7 @@ class Planet:
 
 asteroids = []
 
-for i in range(0,50):
+for i in range(0,100):
     r = random.randint(1,10)
     if r>5:
         nast = Planet(random.uniform(2,3)* Planet.AU,0,1,PURPLE,6 * 10**9)
