@@ -7,7 +7,7 @@
 -Orbits are elliptical but not visible due to scale.  
 -Distance from sun is displayed on each planet to prove that its changing and not a circle.  
 
-#### WARNING: ENABLING ASTEROIDS MIGHT CAUSE PERFORMANCE ISSUES
+#### Note: Enabling asteroids might slow down the simulation
 ## Display
 ![s1](https://github.com/FahdSeddik/Solar-System-Simulation/blob/master/Screenshot.png)  
   
